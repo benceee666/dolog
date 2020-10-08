@@ -1,2 +1,42 @@
-asd123
-asd123
+<!DOCTYPE HTML>
+<html lang='hu'>
+<head>
+<title>Első weboldalam</title>
+<meta charset="utf8">
+</head>
+<body>
+<h1>kamulatin szöveg</h1>
+<h2> <u> kamu latin szöveg </u>fog következni</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare posuere scelerisque. Maecenas ex dolor, sodales non ullamcorper vel, feugiat non turpis. Sed justo nisl, tempor in risus quis, laoreet varius felis. Pellentesque consequat nec mi sed cursus. Ut et tristique nisl. In iaculis dolor sit amet ligula luctus pharetra. Morbi semper a ante et ornare. Quisque mollis convallis vestibulum. Etiam accumsan rhoncus ex eget dictum. Morbi eleifend massa congue velit pellentesque sagittis. Vestibulum urna risus, tristique quis ultricies et, rutrum quis urna. Mauris accumsan congue felis.</p>
+<ul>
+<li>nem</li>
+<li>tudni</li>
+<li>latin</li>
+</ul>
+<a href="https://keepmeme.com/meme/leonardo-dicaprio-laughing-and-mocking-meme"/" target="_blank">Egy random kép</a>
+<p>Sed tincidunt gravida varius. Nam eu consequat augue, in commodo sapien.<s>Cras ut eleifend est. Nam ac eleifend nisi.</s> Vestibulum facilisis facilisis ipsum, nec convallis odio consequat ac. <u>Valami</u> sodales aliquam leo at semper. Vestibulum mollis venenatis magna a vestibulum. Etiam molestie urna orci, vitae pretium urna posuere sit amet. In eu magna quis eros pulvinar venenatis. Fusce id tincidunt odio, id efficitur sem. Nulla eget orci eu orci varius scelerisque eget sed sem. Vestibulum ac feugiat nulla, et varius odio.</p>
+<ol>
+<li>valami</li>
+<li>akármi</li>
+<li>Black</li>
+<li>bármi</li>
+</ol>
+<img src="dicaprio.jpg" alt="dicaprio.jpg"/>
+<table>
+<tr>
+<th>táblázat első oszlopa</th>
+<th>táblázat második oszlopa</th>
+</tr>
+
+<tr>
+<td>valami</td>
+<td>akármi</td>
+</tr>
+
+<tr>
+<td>random</td>
+<td>szavak</td>
+</tr>
+
+
+</table>
